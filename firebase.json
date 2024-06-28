@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "fishylicious-62a5b",
+          "appId": "1:394768677488:android:fd46850651ce874585d2b5",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "fishylicious-62a5b",
+          "configurations": {
+            "android": "1:394768677488:android:fd46850651ce874585d2b5",
+            "ios": "1:394768677488:ios:703f6ddb4dd720f085d2b5",
+            "macos": "1:394768677488:ios:703f6ddb4dd720f085d2b5",
+            "web": "1:394768677488:web:927182e0bd98e74c85d2b5",
+            "windows": "1:394768677488:web:6aafcbcf0f28508385d2b5"
+          }
+        }
+      }
+    }
+  }
+}

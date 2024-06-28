@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "394768677488",
+    "firebase_url": "https://fishylicious-62a5b-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "fishylicious-62a5b",
+    "storage_bucket": "fishylicious-62a5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394768677488:android:fd46850651ce874585d2b5",
+        "android_client_info": {
+          "package_name": "com.example.my_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEyUGso1G8n7NKtlHLen9FRqTJpCRbs44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
